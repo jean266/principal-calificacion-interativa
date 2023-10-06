@@ -40,7 +40,7 @@ Los usuarios deberían poder:
 ### Enlaces
 
 - URL de la solución: [gitHub](https://github.com/jean266/principal-calificacion-interativa.git)
-- URL del sitio en vivo: [Vercel](https://your-live-site-url.com)
+- URL del sitio en vivo: [Vercel](https://principal-calificacion-interativa.vercel.app/)
 
 
 ### Construido con
